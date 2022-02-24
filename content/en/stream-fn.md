@@ -72,5 +72,5 @@ Some are unique to YoMo:
 
 ## Examples
 
-1. A simple real-time noise monitoring system. [link](https://github.com/yomorun/yomo/tree/next/example/basic)
-2. Working with multiple stream functions. [link](https://github.com/yomorun/yomo/tree/next/example/multi-stream-fn)
+1. A simple real-time noise monitoring system. [link](https://github.com/yomorun/yomo/tree/master/example/0-basic)
+2. Working with multiple stream functions. [link](https://github.com/yomorun/yomo/tree/master/example/3-multi-sfn)
